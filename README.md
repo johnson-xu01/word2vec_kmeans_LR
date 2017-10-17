@@ -4,6 +4,6 @@ word2vec, kmeans, logistic regression
 ### 2. words clustering with kmeans.
 ### 3. Logistic regression model training, preservation, reloading for sentence classification.
 
-##Dependent package:
+## Dependent package:
 ### 1. [gensim](https://radimrehurek.com/gensim/)
 ### 2. [scikit-learn](http://scikit-learn.org/stable/)
