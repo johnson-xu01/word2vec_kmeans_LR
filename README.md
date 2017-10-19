@@ -2,7 +2,7 @@
 word2vec, kmeans, logistic regression
 1. gensim word2vec model training , preservation , reloading and converting.
 2. words clustering with kmeans.
-3. logistic regression model training, preservation, reloading for sentence classification.
+3. logistic regression model training, preservation, reloading for sentence classification based on word vector.
 
 **Dependent package:**
 [gensim](https://radimrehurek.com/gensim/)
