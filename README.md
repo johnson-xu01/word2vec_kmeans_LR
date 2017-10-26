@@ -9,7 +9,7 @@ word2vec, kmeans, logistic regression
 [scikit-learn](http://scikit-learn.org/stable/)
 [jieba](https://github.com/fxsjy/jieba)
 #### some word vector results:
-```python
+```java
 show_word_most_similar("java", model, 10)
 ```
 
@@ -26,7 +26,7 @@ show_word_most_similar("java", model, 10)
 
 
 
-```python
+```java
 show_word_most_similar("c++", model, 10)
 ```
 
@@ -43,7 +43,7 @@ show_word_most_similar("c++", model, 10)
 
 
 
-```python
+```java
 show_word_most_similar("hr", model, 10)
 ```
 
@@ -60,7 +60,7 @@ show_word_most_similar("hr", model, 10)
 
 
 
-```python
+```java
 show_word_most_similar("演员", model, 10)
 ```
 
