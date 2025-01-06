@@ -12,6 +12,7 @@ word2vec, kmeans, logistic regression
 ```python
 show_word_most_similar("java", model, 10)
 ```
+
 1000备用金借款平台:
 1    融享钱包贷款平台            0.9621140956878662
 2    金呗呗贷款               0.9596989154815674
